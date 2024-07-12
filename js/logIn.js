@@ -41,6 +41,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Thực hiện đăng nhập (ví dụ: gửi dữ liệu lên server)
     // Sau khi đăng nhập thành công, chuyển hướng đến trang index.html
-    window.location.href = "index.html";
+    window.location.href = "main.html";
   });
 });
